@@ -1,2 +1,2 @@
-# 3SIF-2023-Projetos-Dilan
-Projeto Exemplo de uso do git com clients
+# 3SIF Projetos-Dilan - 2023
+## Projeto Exemplo de uso do git com clients
